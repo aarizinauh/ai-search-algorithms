@@ -1,4 +1,4 @@
-# BFS and DFS search algorithms in Python — pathfinding, maze solving, and complexity comparison.”
+# AI Search Algorithms
 
 Implementation of BFS and DFS search algorithms in Python for pathfinding and state-space exploration.
 
